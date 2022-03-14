@@ -1,0 +1,9 @@
+@font-face {
+
+    src : url("../fonts/GmarketSansTTFMedium.ttf"); 
+    font-family: "Gsans"; }
+
+
+h1{
+    font-family: "Gsans";
+}
